@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @lChap701!!
 - 👀 I’m interested in mainframe development and web development
-- 🌱 I’m currently learning more about mainframe development, web development, database management, software development, and UX design
+- 🌱 I’m currently learning more about web development, software development, and UX design
 - 💞️ I’m looking to collaborate on web development and mainframe projects
 - 🎓 Currently, I am getting ready for my last term at Indian Hills Community College
 - 📫 How to reach me at lucas_chapman@stu.indianhills.edu
