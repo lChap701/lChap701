@@ -7,6 +7,7 @@
 - 🎓 I am currently finishing up my last term at Indian Hills Community College
 - 🥇 I have participated in IHCC's Byte Jam and IBM's Master The Mainframe
 - ⌨ I have experience with HTML, CSS, JavaScript, PHP, Python, COBOL, Java, C#, and SQL
+- 💗 My favorite programming languages are PHP and COBOL
 
 <!---
 lChap701/lChap701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
