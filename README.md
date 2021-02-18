@@ -12,7 +12,8 @@
 - 🥈 I have also participated IBM's Master The Mainframe one time and was able to reach Level 3
 
 ## Languages, Frameworks, & Libraries
-- ⌨ I have experience with the HTML, CSS, BootStrap, Foundation 5, JS, Vue.js, Angular, React, PHP, Python, Django, COBOL, JCL, REXX, Java, Spring Framework, C#, .NET, ASP.NET, SQL, and NoSQL
+- ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
+- 🖼 I also have experience with BootStrap, Foundation 5, jQuery, Angular, React, Vue.js, Django, Spring Framework, .NET, and ASP.NET
 
 ## DBMSs
 - 💻 I have experience with Oracle, MySQL, MariaDB, SQLite, SQL Server, and MongoDB
