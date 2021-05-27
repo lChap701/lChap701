@@ -3,7 +3,7 @@
 - 👀 I’m interested in mainframe development and web development
 - 🌱 I’m currently learning more about web development, software development, and UX design
 - 💞️ I’m looking to collaborate on web development and mainframe projects
-- 🎓 Currently, I am getting ready for my last term at Indian Hills Community College
+- 🎓 I recently graduated from Indian Hills Community College
 - 📫 How to reach me at lucas_chapman@stu.indianhills.edu
 - 🔗 You can learn more about me by visiting: https://www.linkedin.com/in/lucas-chapman-720/
 
