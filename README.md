@@ -18,15 +18,16 @@
 ## DBMSs
 - 💻 I have experience with Oracle, MySQL, MariaDB, SQLite, SQL Server, and MongoDB
 
-## IDEs
-- 🖥 I have used Visual Studio 2019 Professional, Visual Studio Code, and IntelliJ
+## IDEs & Test Editors
+- 🖥 I have used Visual Studio 2019 Professional, Visual Studio Code, Notepad++, and IntelliJ
 
 ## Tools & Software
 - 🔨 I have used Node.js, WAMP, Apache Tomcat, and Azure
 
 ## Favorites
 - 💗 My favorite programming languages are PHP and COBOL
-- 💙 My favorite IDE is Visual Studio Code
+- 💙 My favorite IDE is Visual Studio 2019
+- 💜 My favorite text editor is Visual Studio Code
 - 🖤 My favorite DBMS is MySQL
 
 
