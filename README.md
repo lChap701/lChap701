@@ -32,7 +32,7 @@
 
 ## Licenses & Certifications
 - 👨‍💻 [Master The Mainframe Level 2 by IBM](https://www.credly.com/badges/72b65109-9942-4dc1-b000-d26b83b69e22?source=linked_in_profile)
--🔥 [freeCodeCamp Certificates](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
+- 🔥 [freeCodeCamp Certificates](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
 
 <!---
 lChap701/lChap701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
