@@ -8,7 +8,7 @@
 - 🔗 You can learn more about me by visiting: https://www.linkedin.com/in/lucas-chapman-720/ 
 
 ## Licenses & Certifications
-- 👨‍💻 [Master The Mainframe Level 2 by IBM](https://www.credly.com/badges/72b65109-9942-4dc1-b000-d26b83b69e22?source=linked_in_profile)
+- 👨‍💻 [Master The Mainframe 2020 - Level 2](https://www.credly.com/badges/72b65109-9942-4dc1-b000-d26b83b69e22?source=linked_in_profile)
 - 🔥 [freeCodeCamp Certifications](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
 
 ## Events
