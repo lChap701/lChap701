@@ -1,10 +1,10 @@
 ## About Me
 - 👋 Hi, I’m @lChap701!!
 - 👀 I’m interested in mainframe development and web development
-- 🌱 I’m currently learning more about web development, software development, and UX design
+- 🌱 I’m currently learning more about Node.js, APIs, and microservices
 - 💞️ I’m looking to collaborate on web development and mainframe projects
 - 🎓 I recently graduated from Indian Hills Community College
-- 📫 How to reach me at lucas_chapman@stu.indianhills.edu
+- 📫 How to reach me at lhapman720@gmail.com
 - 🔗 You can learn more about me by visiting: https://www.linkedin.com/in/lucas-chapman-720/
 
 ## Events
@@ -25,7 +25,7 @@
 - 🔨 I have used Node.js, WAMP, Apache Tomcat, and Azure
 
 ## Favorites
-- 💗 My favorite programming languages are PHP and COBOL
+- 💗 My favorite programming languages are PHP, C#, and COBOL
 - 💙 My favorite IDE is Visual Studio 2019
 - 💜 My favorite text editor is Visual Studio Code
 - 🖤 My favorite DBMS is MySQL
