@@ -18,7 +18,7 @@
 
 ## Languages, Frameworks, & Libraries
 - ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
-- 🖼 I also have experience with Bootstrap, Foundation 5, jQuery, Angular, React, Vue.js, Django, Spring Framework, .NET, and ASP.NET
+- 🖼 I also have experience with Bootstrap, Foundation 5, SASS, jQuery, Angular, React, Redux, Vue.js, D3.js, Express (for Node.js), Mongoose, Django, Spring Framework, .NET, and .NET Core
 
 ## DBMSs
 - 💻 I have experience with Oracle, MySQL, MariaDB, SQLite, SQL Server, and MongoDB
