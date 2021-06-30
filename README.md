@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about Node.js, APIs, and microservices
 - 💞️ I’m looking to collaborate on web development and mainframe projects
 - 🎓 I recently graduated from Indian Hills Community College
-- 📫 How to reach me at lhapman720@gmail.com
+- 📫 How to reach me at chapmanlucas201@gmail.com
 - 🔗 You can learn more about me by visiting: https://www.linkedin.com/in/lucas-chapman-720/
 
 ## Events
