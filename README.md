@@ -23,7 +23,7 @@
 ## DBMSs
 - 💻 I have experience with Oracle, MySQL, MariaDB, SQLite, SQL Server, and MongoDB
 
-## IDEs & Test Editors
+## IDEs & Text Editors
 - 🖥 I have used Visual Studio 2019 Professional, Visual Studio Code, Notepad++, and IntelliJ
 
 ## Tools & Software
