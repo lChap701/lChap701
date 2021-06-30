@@ -7,9 +7,14 @@
 - 📫 How to reach me at chapmanlucas201@gmail.com
 - 🔗 You can learn more about me by visiting: https://www.linkedin.com/in/lucas-chapman-720/ 
 
+## Licenses & Certifications
+- 👨‍💻 [Master The Mainframe Level 2 by IBM](https://www.credly.com/badges/72b65109-9942-4dc1-b000-d26b83b69e22?source=linked_in_profile)
+- 🔥 [freeCodeCamp Certifications](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
+
 ## Events
 - 🥇 I have participated in IHCC's Byte Jam four times
 - 🥈 I have also participated IBM's Master The Mainframe one time and was able to reach Level 3
+- Participated in [June 2021's weekly CodePen challenges](https://codepen.io/collection/VYvaax)
 
 ## Languages, Frameworks, & Libraries
 - ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
@@ -29,10 +34,6 @@
 - 💙 My favorite IDE is Visual Studio 2019
 - 💜 My favorite text editor is Visual Studio Code
 - 🖤 My favorite DBMS is MySQL
-
-## Licenses & Certifications
-- 👨‍💻 [Master The Mainframe Level 2 by IBM](https://www.credly.com/badges/72b65109-9942-4dc1-b000-d26b83b69e22?source=linked_in_profile)
-- 🔥 [freeCodeCamp Certifications](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
 
 <!---
 lChap701/lChap701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
