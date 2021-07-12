@@ -16,7 +16,7 @@
 - 🥇 I have participated in IHCC's Byte Jam four times
 - 🥈 I have also participated IBM's Master The Mainframe one time and was able to reach Level 3
 - 🖊 Participated in [June 2021's weekly CodePen challenges](https://codepen.io/collection/VYvaax)
-- 🖋 Participated in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
+- 🖋 Participating in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
 
 ## Languages, Frameworks, & Libraries
 - ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
