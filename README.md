@@ -15,6 +15,7 @@
 - 🥇 I have participated in IHCC's Byte Jam four times
 - 🥈 I have also participated IBM's Master The Mainframe one time and was able to reach Level 3
 - 🖊 Participated in [June 2021's weekly CodePen challenges](https://codepen.io/collection/VYvaax)
+- 🖋 Participated in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
 
 ## Languages, Frameworks, & Libraries
 - ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
@@ -30,7 +31,7 @@
 - 🔨 I have used Node.js, WAMP, Apache Tomcat, and Azure
 
 ## Favorites
-- 💗 My favorite programming languages are PHP, C#, and COBOL
+- 💗 My favorite programming languages are JavaScript, PHP, C#, and COBOL
 - 💙 My favorite IDE is Visual Studio 2019
 - 💜 My favorite text editor is Visual Studio Code
 - 🖤 My favorite DBMS is MySQL
