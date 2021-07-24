@@ -32,7 +32,7 @@
 - 🔨 I have used Node.js, WAMP, phpMyAdmin, Apache Tomcat, GoDaddy, and Azure
 
 ## Favorites
-- 💗 My favorite programming languages are JavaScript, PHP, C#, and COBOL
+- 💗 My favorite programming languages are JavaScript, PHP, Java, C#, and COBOL
 - 💙 My favorite IDE is Visual Studio 2019
 - 💜 My favorite text editor is Visual Studio Code
 - 🖤 My favorite DBMS is MySQL
