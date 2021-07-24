@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @lChap701!!
 - 👀 I’m interested in mainframe development and web development
-- 🌱 I’m currently learning more about Node.js, React.js, Angular, Typescript, APIs, and microservices
+- 🌱 I’m currently learning more about Node.js, Vue.js, React.js, Angular, Typescript, APIs, and microservices
 - 💞️ I’m looking to collaborate on web development and mainframe projects
 - 🎓 I recently graduated from Indian Hills Community College
 - 📫 How to reach me at chapmanlucas201@gmail.com
