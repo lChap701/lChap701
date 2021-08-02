@@ -17,6 +17,7 @@
 - 🥈 I have also participated IBM's Master The Mainframe one time and was able to reach Level 3
 - 🖊 Participated in [June 2021's weekly CodePen challenges](https://codepen.io/collection/VYvaax)
 - 🖋 Participated in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
+- 🖊 Particpating in [August 2021's weekly CodePen challenges](https://codepen.io/collection/dboRzy)
 
 ## Languages, Frameworks, & Libraries
 - ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
