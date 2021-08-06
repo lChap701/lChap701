@@ -6,7 +6,7 @@
 - 🎓 I recently graduated from Indian Hills Community College
 - 📫 How to reach me at chapmanlucas201@gmail.com
 - 🔗 You can learn more about me by visiting: https://www.linkedin.com/in/lucas-chapman-720/ 
-- 👨‍💻 You can view more of my projects/work on [CodePen](https://codepen.io/lchap701), [Replit](https://replit.com/@lChap701), and [Codewars](https://www.codewars.com/users/lChap701)
+- 👨‍💻 You can view more of my projects/work on [freeCodeCamp](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d), [CodePen](https://codepen.io/lchap701), [Replit](https://replit.com/@lChap701), and [Codewars](https://www.codewars.com/users/lChap701)
 
 ## Licenses & Certifications
 - 👨‍💻 [Master The Mainframe 2020 - Level 2](https://www.credly.com/badges/72b65109-9942-4dc1-b000-d26b83b69e22?source=linked_in_profile)
