@@ -18,13 +18,14 @@
 - 🖊 Participated in [June 2021's weekly CodePen challenges](https://codepen.io/collection/VYvaax)
 - 🖋 Participated in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
 - 🖊 Particpating in [August 2021's weekly CodePen challenges](https://codepen.io/collection/dboRzy)
+- 🖊 Particpating in [September 2021's weekly CodePen challenges](https://codepen.io/collection/OLkzwO)
 
 ## Languages, Frameworks, & Libraries
 - ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
 - 🖼 I also have experience with Bootstrap, Foundation 5, SASS, jQuery, Angular, React, Redux, Vue.js, D3.js, Express, Mongoose, Django, Spring Framework, .NET, and .NET Core
 
 ## DBMSs
-- 💻 I have experience with Oracle, MySQL, MariaDB, SQLite, SQL Server, and MongoDB
+- 💻 I have experience with Oracle, MySQL, MariaDB, SQLite, SQL Server, MongoDB, and PostgreSQL
 
 ## IDEs & Text Editors
 - 🖥 I have used Visual Studio 2019 Professional, Visual Studio Code, Notepad++, and IntelliJ
