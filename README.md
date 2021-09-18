@@ -31,7 +31,7 @@
 - 🖥 I have used Visual Studio 2019 Professional, Visual Studio Code, Notepad++, and IntelliJ
 
 ## Tools & Software
-- 🔨 I have used Node.js, WAMP, phpMyAdmin, Apache Tomcat, GoDaddy, and Azure
+- 🔨 I have used Node.js, WAMP, XAMPP, phpMyAdmin, Apache Tomcat, GoDaddy, and Azure
 
 ## Favorites
 - 💗 My favorite programming languages are JavaScript, PHP, Java, C#, and COBOL
