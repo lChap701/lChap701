@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on web development or mainframe projects
 - 🎓 I recently graduated from Indian Hills Community College
 - 📫 How to reach me at chapmanlucas201@gmail.com
-- 🔗 You can learn more about me by visiting: [<img align="right" alt="My LinkedIn Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lucas-chapman-720/)
+- 🔗 You can learn more about me by visiting: 
+  - [<img align="left" alt="My LinkedIn Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lucas-chapman-720/)
 - 👨‍💻 You can view more of my projects/work on [freeCodeCamp](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d), [CodePen](https://codepen.io/lchap701), [Replit](https://replit.com/@lChap701), and [Codewars](https://www.codewars.com/users/lChap701)
 
 ## Licenses & Certifications
