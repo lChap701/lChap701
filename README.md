@@ -43,6 +43,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lChap701)
 </details>
 
