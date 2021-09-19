@@ -39,7 +39,6 @@
 - 💜 My favorite text editor is Visual Studio Code
 - 🖤 My favorite DBMS is MySQL
 
-## Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lChap701)
 
 <!---
