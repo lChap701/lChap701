@@ -40,7 +40,7 @@
 - 🖤 My favorite DBMS is MySQL
 
 ## Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lChap701](https://github.com/lChap701/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lChap701)
 
 <!---
 lChap701/lChap701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
