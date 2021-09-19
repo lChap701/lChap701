@@ -26,8 +26,23 @@
 - 🖊 Particpating in [August 2021's weekly CodePen challenges](https://codepen.io/collection/dboRzy)
 - 🖋 Particpating in [September 2021's weekly CodePen challenges](https://codepen.io/collection/OLkzwO)
 
-## Languages, Frameworks, & Libraries
-- ⌨ I have experience with the HTML, CSS, JS, PHP, Python, COBOL, JCL, REXX, Java, C#, SQL, and NoSQL
+## Languages
+<img align="left" alt="HTML5" title="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" title="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="COBOL" title="COBOL" src="https://user-images.githubusercontent.com/57417221/133943435-80ea3fc6-1244-4b38-a627-436458a4fd72.png" />
+<img align="left" alt="JCL" title="JCL" height="32px" src="https://user-images.githubusercontent.com/57417221/133943575-1aed00b9-ddfe-4d60-ae15-2339df1b1f2e.png" />
+<img align="left" alt="REXX" title="REXX" height="40px" src="https://user-images.githubusercontent.com/57417221/133943704-54897c2a-d4f0-40bb-a493-abd7352ad84d.png" />
+<img align="left" alt="Java" title="Java" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="C#" title="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="SQL" title="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="NoSQL" title="NoSQL" width="32px" src="https://user-images.githubusercontent.com/57417221/133944244-2a769e30-149e-48ae-837c-24937081a6b5.png" />
+<br />
+
+
+## Frameworks & Libraries
 - 🖼 I also have experience with Pug, Bootstrap, Foundation 5, SASS, jQuery, Angular, React.js, Redux, Vue.js, D3.js, Express.js, Mongoose,  Django, Spring Framework, .NET, and .NET Core
 
 ## DBMSs
