@@ -39,11 +39,11 @@
 - 💜 My favorite text editor is Visual Studio Code
 - 🖤 My favorite DBMS is MySQL
 
-<detail>
+<details>
   <summary>:zap: GitHub Stats</summary>
   
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lChap701)
-</detail>
+</details>
 
 <!---
 lChap701/lChap701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
