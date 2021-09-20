@@ -57,26 +57,25 @@
 <img align="left" alt="SASS" title="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <!-- Source: https://seeklogo.com/vector-logo/273099/foundation -->
 <img align="left" alt="Foundation 5" title="Foundation 5" width="32px" height="40px" src="https://seeklogo.com/images/F/foundation-logo-AA9B725281-seeklogo.com.png" />
-<img align="left" alt="jQuery" title="jQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="jQuery" title="jQuery" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="Angular" title="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="React.js" title="React.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue.js" title="Vue.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <!-- Source: https://github.com/d3/d3-logo -->
 <img align="left" alt="D3.js" title="D3.js" width="32px" src="https://raw.githubusercontent.com/d3/d3-logo/6d9c471aa852033501d00ca63fe73d9f8be82d1d/d3.svg" />
-<img align="left" alt="Express.js" title="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" alt="Express.js" title="Express.js" width="50px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Mongoose" title="Mongoose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="Django" title="Django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <!-- Source: https://www.pngegg.com/en/png-ewxsw -->
-<img align="left" alt="Spring Framework" title="Spring Framework" width="32px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" />
+<img align="left" alt="Spring Framework" title="Spring Framework" width="40px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" />
 <!-- Source: https://www.couchbase.com/products/developer-sdk/dotnet -->
 <img align="left" alt=".NET Framework & .NET Core" title=".NET Framework & .NET Core" width="64px" src="https://www.couchbase.com/binaries/content/gallery/website/dot-net-both2-01-1.svg" />
-<br />
 <br />
 
 ## DBMSs
 <!-- Source: https://logodix.com/logos/88244 -->
 <img align="left" alt="Oracle" title="Oracle" width="50px" src="https://logodix.com/logo/88244.png" />
-<img align="left" alt="MySQL" title="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" title="MySQL" width="50px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <!-- Source: https://icon-icons.com/icon/file-type-mariadb/130403 -->
 <img align="left" alt="MariaDB" title="MariaDB" src="https://user-images.githubusercontent.com/57417221/133950608-818b55a2-94c3-45d4-8df9-aa939cb05171.png" />
 <!-- Source: https://commons.wikimedia.org/wiki/File:Sqlite-square-icon.svg -->
@@ -88,11 +87,32 @@
 <br />
 
 ## IDEs & Text Editors
-- 🖥 I have used Visual Studio 2019 Professional, Visual Studio Code, Notepad++, and IntelliJ
+<!-- Source: https://commons.wikimedia.org/wiki/File:Visual_Studio_Icon_2019.svg -->
+<img align="left" alt="Visual Studio 2019 Professional" title="Visual Studio 2019 Professional" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- Source: https://en.wikipedia.org/wiki/Notepad%2B%2B#/media/File:Notepad++_Logo.svg -->
+<img align="left" alt="Notepad++" title="Notepad++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" />
+<!-- Source: https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg -->
+<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <br />
 
 ## Tools & Software
-- 🔨 I have used Node.js, WAMP, XAMPP, phpMyAdmin, Apache Tomcat, GoDaddy, and Azure
+<img align="left" alt="Git" title="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" title="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" title="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Node.js" title="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<!-- Source: https://greggborodaty.com/upgrading-wampserver-from-version-2-2-to-version-3-0/ -->
+<img align="left" alt="WAMP" title="WAMP" src="https://greggborodaty.com/wp-content/uploads/2016/11/WampServer-logo-300x300.png" width="32px" />
+<!-- Source: https://icon-icons.com/icon/xampp/94513 -->
+<img align="left" alt="XAMPP" title="XAMPP" src="https://user-images.githubusercontent.com/57417221/133954637-3e08834c-2ce3-4aeb-91e0-50172af1761a.png" />
+<!-- Source: https://www.freeiconspng.com/img/5578 -->
+<img align="left" alt="phpMyAdmin" title="phpMyAdmin" width="32px" src="https://user-images.githubusercontent.com/57417221/133954206-3885a96a-4a17-48d7-bfe0-e2e9692747d4.png" />
+<!-- Source: https://commons.wikimedia.org/wiki/File:Apache_Tomcat_logo.svg -->
+<img align="left" alt="Apache Tomcat" title="Apache Tomcat" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" />
+<!-- Source: https://www.logo.wine/logo/GoDaddy -->
+<img align="left" alt="GoDaddy" title="GoDaddy" width="50px" height="40px" src="https://www.logo.wine/a/logo/GoDaddy/GoDaddy-Logo.wine.svg" />
+<!-- Source: https://www.flaticon.com/free-icon/azure_873107 -->
+<img align="left" alt="Azure" title="Azure" width="32px" src="https://cdn-icons-png.flaticon.com/512/873/873107.png" />
 <br />
 <hr />
 
