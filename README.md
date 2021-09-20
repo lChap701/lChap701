@@ -18,7 +18,6 @@
 ## Licenses & Certifications
 - 👨‍💻 [Master The Mainframe 2020 - Level 2](https://www.credly.com/badges/72b65109-9942-4dc1-b000-d26b83b69e22?source=linked_in_profile)
 - 🔥 [freeCodeCamp Certifications](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
-<br />
 
 ## Events
 - 🥇 I have participated in IHCC's Byte Jam four times
@@ -49,7 +48,6 @@
 <!-- Source: https://icon-library.com/images/no-sql-icon/no-sql-icon-28.jpg -->
 <img align="left" alt="NoSQL" title="NoSQL" width="32px" src="https://user-images.githubusercontent.com/57417221/133944244-2a769e30-149e-48ae-837c-24937081a6b5.png" />
 <br />
-<br />
 
 ## Frameworks, Libraries, & Template Engines
 <!-- Source: https://github.com/pugjs/pug -->
@@ -73,11 +71,12 @@
 <!-- Source: https://www.couchbase.com/products/developer-sdk/dotnet -->
 <img align="left" alt=".NET Framework & .NET Core" title=".NET Framework & .NET Core" width="64px" src="https://www.couchbase.com/binaries/content/gallery/website/dot-net-both2-01-1.svg" />
 <br />
-<br />
-<br /> 
 
 ## DBMSs
-- 💻 I have experience with Oracle, MySQL, MariaDB, SQLite, SQL Server, MongoDB, and PostgreSQL
+- 💻 I have experience with MariaDB, SQLite, SQL Server, MongoDB, and PostgreSQL
+<!-- Source: https://logodix.com/logos/88244 -->
+<img align="left" alt="Oracle" title="Oracle" width="32px" src="https://logodix.com/logo/88244.png" />
+<img align="left" alt="MySQL" title="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br />
 
 ## IDEs & Text Editors
