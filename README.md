@@ -77,7 +77,7 @@
 <img align="left" alt=".NET Framework & .NET Core" title=".NET Framework & .NET Core" width="64px" src="https://www.couchbase.com/binaries/content/gallery/website/dot-net-both2-01-1.svg" />
 <br />
 
-## DBMSs
+## DBMS
 
 <!-- Source: https://logodix.com/logos/88244 -->
 <img align="left" alt="Oracle" title="Oracle" width="50px" src="https://logodix.com/logo/88244.png" />
