@@ -8,7 +8,7 @@
 
 ### 🔗 You can learn more about me and my work history by visiting: 
 [<img align="left" alt="My LinkedIn Account" title="My LinkedIn Account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lucas-chapman-720/)
-[<img align="left" alt="My freeCodeCamp account" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" />](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
+[<img align="left" alt="My freeCodeCamp account" title="My freeCodeCamp account" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" />](https://www.freecodecamp.org/fcca68b68fb-330b-45f5-b626-d69c68cc6b2d)
 [<img align="left" alt="My CodePen Account" title="My CodePen Account" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/lchap701)
 [<img align="left" alt="My Replit Account" title="My Replit Account" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/repl-dot-it.svg" />](https://replit.com/@lChap701)
 [<img align="left" alt="My Codewars Account" title="My Codewars Account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg" />](https://www.codewars.com/users/lChap701)
@@ -67,7 +67,7 @@
 <img align="left" alt="D3.js" title="D3.js" width="32px" src="https://raw.githubusercontent.com/d3/d3-logo/6d9c471aa852033501d00ca63fe73d9f8be82d1d/d3.svg" />
 <img align="left" alt="Express.js" title="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Mongoose" title="Mongoose" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
-<img align="left" alt="Django" title="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Django" title="Django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <!-- Source: https://www.pngegg.com/en/png-ewxsw -->
 <img align="left" alt="Spring Framework" title="Spring Framework" width="50px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" />
 <!-- Source: https://www.couchbase.com/products/developer-sdk/dotnet -->
