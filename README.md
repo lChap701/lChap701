@@ -71,12 +71,20 @@
 <!-- Source: https://www.couchbase.com/products/developer-sdk/dotnet -->
 <img align="left" alt=".NET Framework & .NET Core" title=".NET Framework & .NET Core" width="64px" src="https://www.couchbase.com/binaries/content/gallery/website/dot-net-both2-01-1.svg" />
 <br />
+<br />
 
 ## DBMSs
-- 💻 I have experience with MariaDB, SQLite, SQL Server, MongoDB, and PostgreSQL
 <!-- Source: https://logodix.com/logos/88244 -->
-<img align="left" alt="Oracle" title="Oracle" width="32px" src="https://logodix.com/logo/88244.png" />
+<img align="left" alt="Oracle" title="Oracle" width="50px" src="https://logodix.com/logo/88244.png" />
 <img align="left" alt="MySQL" title="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<!-- Source: https://icon-icons.com/icon/file-type-mariadb/130403 -->
+<img align="left" alt="MariaDB" title="MariaDB" src="https://user-images.githubusercontent.com/57417221/133950608-818b55a2-94c3-45d4-8df9-aa939cb05171.png" />
+<!-- Source: https://commons.wikimedia.org/wiki/File:Sqlite-square-icon.svg -->
+<img align="left" alt="SQLite" title="SQLite" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png" />
+<!-- Source: https://www.pngegg.com/en/png-ywilz -->
+<img align="left" alt="SQL Server" title="SQL Server" width="40px" src="https://e7.pngegg.com/pngimages/338/123/png-clipart-microsoft-sql-server-sql-server-management-studio-database-transact-sql-microsoft-angle-white.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="52px" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <br />
 
 ## IDEs & Text Editors
