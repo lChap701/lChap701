@@ -26,9 +26,9 @@
 - 🥈 I have also participated IBM's Master The Mainframe one time and was able to reach Level 3
 - 🖊 Participated in [June 2021's weekly CodePen challenges](https://codepen.io/collection/VYvaax)
 - 🖋 Participated in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
-- 🖊 Particpating in [August 2021's weekly CodePen challenges](https://codepen.io/collection/dboRzy)
-- 🖋 Particpating in [September 2021's weekly CodePen challenges](https://codepen.io/collection/OLkzwO)
-- 🖊 Particpating in [September 2021's weekly CodePen challenges](https://codepen.io/collection/Kpdaqd)
+- 🖊 Particpated in [August 2021's weekly CodePen challenges](https://codepen.io/collection/dboRzy)
+- 🖋 Particpated in [September 2021's weekly CodePen challenges](https://codepen.io/collection/OLkzwO)
+- 🖊 Particpating in [October 2021's weekly CodePen challenges](https://codepen.io/collection/Kpdaqd)
 <hr />
 
 ## Languages
