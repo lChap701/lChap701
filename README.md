@@ -124,10 +124,10 @@
 <img align="left" alt="phpMyAdmin" title="phpMyAdmin" width="32px" src="https://user-images.githubusercontent.com/57417221/133954206-3885a96a-4a17-48d7-bfe0-e2e9692747d4.png" />
 <!-- Source: https://commons.wikimedia.org/wiki/File:Apache_Tomcat_logo.svg -->
 <img align="left" alt="Apache Tomcat" title="Apache Tomcat" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" />
-<!-- Source: https://www.flaticon.com/free-icon/azure_873107 -->
-<img align="left" alt="Azure" title="Azure" width="32px" src="https://cdn-icons-png.flaticon.com/512/873/873107.png" />
 <!-- Source: https://www.logo.wine/logo/GoDaddy -->
 <img align="left" alt="GoDaddy" title="GoDaddy" width="50px" height="40px" src="https://www.logo.wine/a/logo/GoDaddy/GoDaddy-Logo.wine.svg" />
+<!-- Source: https://www.flaticon.com/free-icon/azure_873107 -->
+<img align="left" alt="Azure" title="Azure" width="32px" src="https://cdn-icons-png.flaticon.com/512/873/873107.png" />
 <br />
 <hr />
 
