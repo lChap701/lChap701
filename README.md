@@ -85,6 +85,8 @@
 <img align="left" alt="MySQL" title="MySQL" width="50px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <!-- Source: https://icon-icons.com/icon/file-type-mariadb/130403 -->
 <img align="left" alt="MariaDB" title="MariaDB" src="https://user-images.githubusercontent.com/57417221/133950608-818b55a2-94c3-45d4-8df9-aa939cb05171.png" />
+<!-- Source: https://www.opsview.com/product/system-monitoring/database/ibm-db2-monitoring -->
+<img align="left" alt="IBM DB2" title="IBM DB2" width="40px" src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png" />
 <!-- Source: https://commons.wikimedia.org/wiki/File:Sqlite-square-icon.svg -->
 <img align="left" alt="SQLite" title="SQLite" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png" />
 <!-- Source: https://www.pngegg.com/en/png-ywilz -->
