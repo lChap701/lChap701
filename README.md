@@ -28,7 +28,7 @@
 - 🖋 Participated in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
 - 🖊 Participated in [August 2021's weekly CodePen challenges](https://codepen.io/collection/dboRzy)
 - 🖋 Participated in [September 2021's weekly CodePen challenges](https://codepen.io/collection/OLkzwO)
-- 🖊 Participating in [October 2021's weekly CodePen challenges](https://codepen.io/collection/Kpdaqd)
+- 🖊 Participated in [October 2021's weekly CodePen challenges](https://codepen.io/collection/Kpdaqd)
 <hr />
 
 ## Languages
