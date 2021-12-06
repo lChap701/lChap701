@@ -30,6 +30,7 @@
 - 🖋 Participated in [September 2021's weekly CodePen challenges](https://codepen.io/collection/OLkzwO)
 - 🖊 Participated in [October 2021's weekly CodePen challenges](https://codepen.io/collection/Kpdaqd)
 - 🖋 Participated in [November 2021's weekly CodePen challenges](https://codepen.io/collection/QWNjQW)
+- 🖊 Participating in [December 2021's weekly CodePen challenges](https://codepen.io/collection/pgbJOQ)
 <hr />
 
 ## Languages
