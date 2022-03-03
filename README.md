@@ -32,7 +32,7 @@
 - 🖋 Participated in [November 2021's weekly CodePen challenges](https://codepen.io/collection/QWNjQW)
 - 🖊 Participated in [December 2021's weekly CodePen challenges](https://codepen.io/collection/pgbJOQ)
 - 🖋 Participated in [January 2022's weekly CodePen challenges](https://codepen.io/collection/KpkOww)
-- 🖊 Participating in [February 2022's weekly CodePen challenges](https://codepen.io/collection/eJBJYQ)
+- 🖊 Participated in [February 2022's weekly CodePen challenges](https://codepen.io/collection/eJBJYQ)
 <hr />
 
 ## Languages
