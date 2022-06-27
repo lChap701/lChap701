@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more about Vue.js, Angular, Typescript, Bash, and PowerShell
 - 💞️ I’m looking to collaborate on web development or mainframe projects
 - 🎓 I graduated from [Indian Hills Community College](https://www.indianhills.edu/academics/tech/computer_softwaredev.php) in May 2021
-- 📫 How to reach me at chapmanlucas201@gmail.com
+- 📫 You can reach me at chapmanlucas201@gmail.com
 
 ### 🔗 You can learn more about me and my work history by visiting: 
 
