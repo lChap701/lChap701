@@ -78,8 +78,9 @@
 <img align="left" alt="Django" title="Django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <!-- Source: https://www.pngegg.com/en/png-ewxsw -->
 <img align="left" alt="Spring Framework" title="Spring Framework" width="40px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" />
-<!-- Source: https://www.couchbase.com/products/developer-sdk/dotnet -->
-<img align="left" alt=".NET Framework & .NET Core" title=".NET Framework & .NET Core" width="64px" src="https://www.couchbase.com/binaries/content/gallery/website/dot-net-both2-01-1.svg" />
+<!-- Source: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png -->
+<img align="left" alt=".NET Framework & .NET Core" title=".NET Framework & .NET Core" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
+<br />
 <br />
 
 ## DBMS
