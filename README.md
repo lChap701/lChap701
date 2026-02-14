@@ -23,15 +23,6 @@
 ## Events
 - 🥇 I have participated in IHCC's Byte Jam four times
 - 🥈 I have also participated IBM's Master The Mainframe one time and was able to reach Level 3
-- 🖊 Participated in [June 2021's weekly CodePen challenges](https://codepen.io/collection/VYvaax)
-- 🖋 Participated in [July 2021's weekly CodePen challenges](https://codepen.io/collection/YywxyW)
-- 🖊 Participated in [August 2021's weekly CodePen challenges](https://codepen.io/collection/dboRzy)
-- 🖋 Participated in [September 2021's weekly CodePen challenges](https://codepen.io/collection/OLkzwO)
-- 🖊 Participated in [October 2021's weekly CodePen challenges](https://codepen.io/collection/Kpdaqd)
-- 🖋 Participated in [November 2021's weekly CodePen challenges](https://codepen.io/collection/QWNjQW)
-- 🖊 Participated in [December 2021's weekly CodePen challenges](https://codepen.io/collection/pgbJOQ)
-- 🖋 Participated in [January 2022's weekly CodePen challenges](https://codepen.io/collection/KpkOww)
-- 🖊 Participated in [February 2022's weekly CodePen challenges](https://codepen.io/collection/eJBJYQ)
 <hr />
 
 ## Languages
