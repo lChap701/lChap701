@@ -1,7 +1,6 @@
 ## About Me
 
 - 👋 Hi, I’m @lChap701!!
-- 👀 I’m interested in mainframe development and web development
 - 🎓 I graduated from [Indian Hills Community College](https://www.indianhills.edu/academics/tech/computer_softwaredev.php) in May 2021
 - 📫 You can reach me at chapmanlucas201@gmail.com
 
