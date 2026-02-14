@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @lChap701!!
 - 👀 I’m interested in mainframe development and web development
-- 🌱 I’m currently learning more about Vue.js, Angular, Typescript, Bash, and PowerShell
 - 🎓 I graduated from [Indian Hills Community College](https://www.indianhills.edu/academics/tech/computer_softwaredev.php) in May 2021
 - 📫 You can reach me at chapmanlucas201@gmail.com
 
