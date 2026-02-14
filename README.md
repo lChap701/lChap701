@@ -97,24 +97,15 @@
 <!-- Source: https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg -->
 <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<!-- Source: https://icon-icons.com/icon/sublime-text/94866 -->
-<img align="left" alt="Sublime" title="Sublime" src="https://user-images.githubusercontent.com/57417221/133956046-bc7fc4a7-199f-472e-9692-397987663a8f.png" />
-<!-- Source: https://commons.wikimedia.org/wiki/File:Atom_1.0_icon.png -->
-<img align="left" alt="Atom" title="Atom" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" />
 <br />
 
 ## Tools & Software
 
-<img align="left" alt="Git" title="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" title="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" title="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Node.js" title="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <!-- Source: https://greggborodaty.com/upgrading-wampserver-from-version-2-2-to-version-3-0/ -->
 <img align="left" alt="WAMP" title="WAMP" src="https://greggborodaty.com/wp-content/uploads/2016/11/WampServer-logo-300x300.png" width="32px" />
 <!-- Source: https://icon-icons.com/icon/xampp/94513 -->
 <img align="left" alt="XAMPP" title="XAMPP" src="https://user-images.githubusercontent.com/57417221/133954637-3e08834c-2ce3-4aeb-91e0-50172af1761a.png" />
-<!-- Source: https://www.freeiconspng.com/img/5578 -->
-<img align="left" alt="phpMyAdmin" title="phpMyAdmin" width="32px" src="https://user-images.githubusercontent.com/57417221/133954206-3885a96a-4a17-48d7-bfe0-e2e9692747d4.png" />
 <!-- Source: https://commons.wikimedia.org/wiki/File:Apache_Tomcat_logo.svg -->
 <img align="left" alt="Apache Tomcat" title="Apache Tomcat" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" />
 <!-- Source: https://www.logo.wine/logo/GoDaddy -->
